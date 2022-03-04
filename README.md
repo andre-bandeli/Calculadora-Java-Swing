@@ -7,7 +7,6 @@ Este é um projeto para fins de estudo, compondo parte do curso de Java da COD3R
 
 ### Conceitos Estudados:
 
-**Note: configure previamente o schema do banco de dados!**
 
 - Estrutura de dados
 - Java e Java Swing
